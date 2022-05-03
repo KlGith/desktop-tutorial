@@ -1,0 +1,23 @@
+#conteudo{
+    margin-top: 2%;
+    padding: 20px;
+    width: 50%;
+    margin-left: 3%;
+    border-radius: 10px;
+    background: #f1be7ce1;
+    color: rgb(0, 0, 0);
+}
+
+#botao{
+    background-color:cornflowerblue;
+}
+
+body{
+    background-color:#f1be7ce1 ;
+}
+
+#saida{
+    font-weight: bold;
+    font-size: 200%;
+    margin-top: 2%;
+}
